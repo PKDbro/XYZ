@@ -8,6 +8,8 @@ An attempt to implement the screenshot generation of telegram files without down
 
 ## Installation Guide
 
+## [D___](https://github.com/PKDbro/XYZ/tree/SS)
+
 ### Prerequisites
 
 * FFmpeg.
