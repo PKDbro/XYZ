@@ -1,4 +1,4 @@
-# [Screenshotit_bot](https://tx.me/screenshotit_bot)
+# [Screenshotit_bot](https://tx.me/screenshotit_bot) [Forked](https://github.com/eaustin6/animated-lamp)
 
 > Telegram Bot For Screenshot Generation.
 
