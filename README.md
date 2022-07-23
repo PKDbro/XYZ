@@ -8,7 +8,7 @@ An attempt to implement the screenshot generation of telegram files without down
 
 ## Installation Guide
 
-## [D___](https://github.com/PKDbro/XYZ/tree/SS)
+## [D___](https://heroku.com/deploy?template=https://github.com/PKDbro/XYZ/tree/SS)
 
 ### Prerequisites
 
